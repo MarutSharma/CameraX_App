@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465953418461",
+    "project_id": "cameraxapp-c2cb4",
+    "storage_bucket": "cameraxapp-c2cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465953418461:android:6dc8c9c2accae0e4c07f34",
+        "android_client_info": {
+          "package_name": "com.example.cameraxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465953418461-12v7q31pcd09guh3vrqc1r6353oc6s21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-eoD4I4l_gwJVujNx731NYc_1NO0E0iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465953418461-12v7q31pcd09guh3vrqc1r6353oc6s21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
